@@ -1,6 +1,6 @@
 <h1 align="center">Hello World! 👋, I'm Sumon</h1>
-<h3 align="center">A passionate web developer on the brink of graduating with a degree in Computer Science.</h3>
-My coding journey began with "Hello World," and since then, I've been crafting digital experiences that bring ideas to life.
+<h3 align="center">I thrive on leveraging technology to solve complex problems and enhance user experiences. </h3>
+My journey has equipped me with a solid foundation in Java, JSP, Servlets, React, Node.js, Spring Boot, MySQL, DBMS, data structures, Python, PHP, and HTML.
 
 - 🔭 I’m currently working on **Personal Project**
 
