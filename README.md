@@ -7,7 +7,7 @@ My journey has equipped me with a solid foundation in Java, JSP, Servlets, React
 
 - 🌱 I’m currently learning **React , Java Script, Spring Boot**
 
-- 📫 How to reach me **@gmail.com**
+- 📫 How to reach me **kararsumon23@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
