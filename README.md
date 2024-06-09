@@ -1,9 +1,9 @@
 <img src=https://github.com/sumonkarar/sumonkarar/blob/main/Sumon.jpg>
-<h1 align="center">Hello World! 👋, I'm Sumon</h1>
+<h1 align="center">Hello World! 👋, I'm Sumon Karar</h1>
 <h3 align="center">I thrive on leveraging technology to solve complex problems and enhance user experiences. </h3>
 My journey has equipped me with a solid foundation in Java, JSP, Servlets, React, Node.js, Spring Boot, MySQL, DBMS, data structures, Python, PHP, and HTML.
 
-- 🔭 I’m currently working on **Personal Project**
+- 🔭 I’m currently working on **Personal Projects**
 
 - 🌱 I’m currently learning **React , Java Script, Spring Boot**
 
